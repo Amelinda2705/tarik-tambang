@@ -1,0 +1,8 @@
+name = "physicsgame"
+compatibility_date = "2024-11-01"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "physicsgame"
+database_id = "7b49b241-ba98-457c-9b45-b236a33ff59a"
